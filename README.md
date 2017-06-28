@@ -1,3 +1,9 @@
+# Set environment
+gcloud config set project stelinno-dev
+gcloud config set project stelinno-qa
+gcloud config set project stelinno-prod
+
+
 appengine-standard-archetype
 ============================
 

@@ -77,6 +77,20 @@ button {
 	color: black;
 }
 
+#footer {
+	position: absolute; top: 1030px; text-align: center; width: 1500px;
+}
+
+#footer hr{
+	border-color: #001237;
+}
+
+#footer a {
+	color: #001237;
+	font-family: alien-resurrection;
+	font-size: 14pt;
+}
+
 .toolTipInputField {
 	margin-top: 18px;	
 }
